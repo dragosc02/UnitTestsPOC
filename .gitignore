@@ -1,0 +1,4 @@
+bin/
+obj/
+.vs/
+/.vs/Builder/v15/*.suo
